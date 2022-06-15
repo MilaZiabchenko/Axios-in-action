@@ -253,7 +253,3 @@ document.getElementById('headers').addEventListener('click', customHeaders);
 
 document.getElementById('error').addEventListener('click', errorHandling);
 document.getElementById('cancel').addEventListener('click', cancelRequest);
-
-// Code written in feature branch
-// Code written in feature branch
-// Code written in feature branch
